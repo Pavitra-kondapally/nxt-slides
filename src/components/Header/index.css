@@ -1,0 +1,17 @@
+.header-container {
+  height: 80px;
+  background-color: #dbeafe;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.logo-image {
+  height: 50px;
+  width: 70px;
+}
+.header-heading {
+  color: #0f172a;
+  font-family: 'Bree Serif';
+}

@@ -1,0 +1,30 @@
+.slide-item-container {
+  height: 150px;
+  width: 300px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: #475569;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.active-tab {
+  background-color: #dbeafe;
+}
+.inactive-tab {
+  background-color: #ffffff;
+}
+
+.slide-heading {
+  color: #0967d2;
+  font-family: 'Roboto';
+}
+.slide-description {
+  color: #334155;
+  font-family: 'Roboto';
+}
+.number-text {
+  color: #0f172a;
+}
